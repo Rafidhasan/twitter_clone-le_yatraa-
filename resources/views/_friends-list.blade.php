@@ -7,6 +7,8 @@
                 src="{{ $user->avatar }}"
                 class="rounded-full mr-2"
                 alt="friends image"
+                height="40"
+                width="40"
             >
             {{ $user->name }}
         </a>

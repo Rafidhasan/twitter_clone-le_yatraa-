@@ -14,6 +14,8 @@
                 src="{{ auth()->user()->avatar }}"
                 class="rounded-full mr-2"
                 alt="avatar image"
+                width="50"
+                height="50"
             >
             </div>
 
