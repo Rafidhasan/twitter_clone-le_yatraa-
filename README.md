@@ -50,7 +50,7 @@ npm run dev
 
 Rafid MD. Ahsan – [@rafid](https://twitter.com/RafidSera) – rafidahsan698@gmail.com
 
-[https://github.com/yourname/rafidhasan](https://github.com/rafidhasan/)
+[https://github.com/rafidhasan](https://github.com/rafidhasan/)
 
 ## Contributing
 
