@@ -48,7 +48,7 @@ npm run dev
 
 ## Meta
 
-Your Name – [@rafid](https://twitter.com/RafidSera) – rafidahsan698@gmail.com
+Rafid MD. Ahsan – [@rafid](https://twitter.com/RafidSera) – rafidahsan698@gmail.com
 
 [https://github.com/yourname/rafidhasan](https://github.com/rafidhasan/)
 
