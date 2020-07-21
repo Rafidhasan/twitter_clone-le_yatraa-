@@ -66,8 +66,8 @@
     <body>
         <div class="flex-center position-ref full-height">
             <div class="content">
-                <div class="title m-b-md">
-                    Tweety
+                <div class="">
+                    <img src="{{asset('assets/logo.png')}}" height="550" width="auto" alt="">
                 </div>
 
                 <div class="links">

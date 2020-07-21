@@ -1,6 +1,6 @@
 <h3 class="font-bold text-xl mb-4">Following</h3>
 <ul>
-    @foreach (auth()->user()->follows as $user)
+    @forelse (auth()->user()->follows as $user)
     <li class="mb-4">
         <a class="flex items-center text-sm" href="{{route('profile', $user)}}">
             <img
@@ -13,5 +13,7 @@
             {{ $user->name }}
         </a>
     </li>
-    @endforeach
-</ul>
+    @empty
+        <p class="p-4">No friends yet!</p>
+    @endforelse
+</ul>\

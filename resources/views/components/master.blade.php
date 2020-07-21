@@ -21,9 +21,9 @@
 </head>
 <body>
     <div id="app">
-        <section class="px-8 py-4 mb-6">
+        <section class=" ">
             <header class="container mx-auto">
-                <h1>Tweety</h1>
+                <img src="{{asset('assets/logo.png')}}" width="250" alt="">
             </header>
         </section>
     </div>
